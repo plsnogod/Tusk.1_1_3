@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>TaskJDBC</artifactId>
-    <version>1.0-SNAPSHOT</version> // какой дол%№*б в этот прожект выставил конфиги от 5.0.0 ??
+    <version>1.0-SNAPSHOT</version>
     <build>
         <plugins>
             <plugin>

@@ -7,7 +7,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserDaoJDBCImpl extends Util implements UserDao {
+public class UserDaoJDBCImpl  implements UserDao {   // Изначально заэкстендил, для какой то проверки, в итоге забыл убрать)
     Connection connection = Util.getConnectionJDBC();
 
     public UserDaoJDBCImpl() {
